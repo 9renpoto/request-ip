@@ -60,7 +60,7 @@
     "@babel/core": "^7.0.0-beta.51",
     "@babel/preset-env": "^7.0.0-beta.51",
     "coveralls": "^3.0.2",
-    "eslint": "^5.8.0",
+    "eslint": "^7.2.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.2.0",
     "nyc": "^13.1.0",
